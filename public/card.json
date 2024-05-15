@@ -1,0 +1,67 @@
+[
+     
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/T2cpBd5/888.jpg",
+        "title": "Electrical System",
+        "model": "Toyota Corolla",
+        "description": "The Toyota Corolla is a compact car that has been around for decades, known for its reliability and fuel efficiency.",
+        "price": 20000
+      },
+      {
+        "id": 2,
+        "img": "https://i.ibb.co/ydCbDN3/5555.jpg",
+        "title": "Automatic Services",
+        "model": "Honda Civic",
+        "description": "The Honda Civic is a popular compact car known for its sporty design, comfortable ride, and advanced technology features.",
+        "price": 22000
+      },
+      {
+        "id": 3,
+        "img": "https://i.ibb.co/R6Z2nFM/55.jpg",
+        "title": "Engine Repair",
+        "model": "Ford Mustang",
+        "description": "The Ford Mustang is an iconic sports car with a powerful engine, classic design, and exhilarating performance.",
+        "price": 35000
+      },
+      {
+        "id": 4,
+        "img": "https://i.ibb.co/5MvmD2g/88.jpg",
+        "title": "Automatic Services",
+        "model": "Tesla Model S",
+        "description": "The Tesla Model S is an all-electric luxury sedan known for its cutting-edge technology, long range, and impressive acceleration.",
+        "price": 80000
+      },
+      {
+        "id": 5,
+        "img": "https://i.ibb.co/wh7t3N3/555.jpg",
+        "title": "Full car Repair",
+        "model": "BMW 3 Series",
+        "description": "The BMW 3 Series is a luxury compact car known for its dynamic performance, luxurious interior, and advanced infotainment system.",
+        "price": 40000
+      },
+      {
+        "id": 6,
+        "img": "https://i.ibb.co/KzCG8qr/8888.jpg",
+        "title": "Battery Charge",
+        "model": "Mercedes-Benz C-Class",
+        "description": "The Mercedes-Benz C-Class is a luxury sedan known for its elegant design, comfortable ride, and cutting-edge technology features.",
+        "price": 45000
+      },
+      {
+        "id": 6,
+        "img": "https://i.ibb.co/ydCbDN3/5555.jpg",
+        "model": "Mercedes-Benz C-Class",
+        "title": "Automatic Services",
+        "description": "The Mercedes-Benz C-Class is a luxury sedan known for its elegant design, comfortable ride, and cutting-edge technology features.",
+        "price": 45000
+      },
+      {
+        "id": 6,
+        "img": "https://i.ibb.co/5MvmD2g/88.jpg",
+        "title": "Full car Repair",
+        "model": "Mercedes-Benz C-Class",
+        "description": "The Mercedes-Benz C-Class is a luxury sedan known for its elegant design, comfortable ride, and cutting-edge technology features.",
+        "price": 45000
+      }
+]
