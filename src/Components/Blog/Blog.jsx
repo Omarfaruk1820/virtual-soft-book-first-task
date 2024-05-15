@@ -7,7 +7,7 @@ import Footer from "./Footer/Footer";
 
 const Blog = () => {
     return (
-        <div>
+        <div className='w-[1400px] mt-5 mx-auto'>
             <Header></Header>
             <Banner></Banner>
             <PostCard></PostCard>
